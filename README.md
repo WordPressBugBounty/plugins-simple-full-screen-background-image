@@ -1,0 +1,1 @@
+# plugins-simple-full-screen-background-image
